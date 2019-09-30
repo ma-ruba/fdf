@@ -6,5 +6,5 @@ Usage:
   KEY_UPARROW -> increase z_coord in 5 times;
   KEY_DOWNARROW -> decrease z_coord in 5 times;
   
-  ![Image alt](https://github.com/ma-ruba/fdf/raw/master/master/fdf_examp.png)
+  ![Image alt](https://github.com/ma-ruba/fdf/raw/master/fdf_examp.png)
   
